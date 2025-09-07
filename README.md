@@ -30,7 +30,7 @@ Example (replace with your actual steps)
 
 ✍️ [Write your content here]
 
-###b. Key Features & Function Manual
+### b. Key Features & Function Manual
 
 ✍️ [Write your content here, explain about your app's functions]
 
