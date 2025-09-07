@@ -36,12 +36,12 @@ How it meets each requirement:
   - "Do Now" view (AI-sorted by urgency + your procrastination history)
   - Calendar view (see deadline collisions)
   - Analytics view (your productivity patterns, best work times)
-4. **State Management:** Tasks flow through: `Planned → Started (with timer) → Paused → Completed/Abandoned`
-5. **Time Handling:** 
+
+4. **Time Handling:** 
   - Tracks estimated vs. actual completion time
   - Sends "start now or you'll be late" notifications based on your past behavior
   - Shows "realistic deadline" vs "official deadline"
-6. **Handles 20+ items:** RecyclerView with efficient scrolling, search/filter for hundreds of tasks
+5. **Handles 20+ items:** RecyclerView with efficient scrolling, search/filter for hundreds of tasks
 
 Unique features this example might have - these are totally optional to implement, just some ideas for you. 
 
@@ -60,32 +60,32 @@ Unique features this example might have - these are totally optional to implemen
 Use the provided Android template repository. It's already set up with Kotlin and basic Android structure. You can switch to Java if you prefer.
 
 ### AI Usage
-You may use AI-generated code, but it must be customized and integrated.
-Blind copy-paste of raw AI output is not accepted.
-Bonus points for creative use of AI tools (e.g., simple API call, workflow automation).
+- You may use AI-generated code, but it must be customized and integrated.
+- Blind copy-paste of raw AI output is not accepted.
+- Bonus points for creative use of AI tools (e.g., simple API call, workflow automation).
 
 ## 📦 Submissions
-Source code: GitHub repository link (README.md required)
-Executable demo:
-Android: APK file in repository or download link
-Project Documentation:
-Fill in the readme file of your repository.
+- Source code: GitHub repository link (README.md required)
+- Executable demo:
+- Android: APK file in repository or download link
+- Project Documentation:
+- Fill in the readme file of your repository.
 
 ## 📅 Schedule
-Assignment Open: September 8th
-Submission Deadline: September 15th (until 18:00)
+- Assignment Open: September 8th
+- Submission Deadline: September 15th (until 18:00)
 
 ## 📌 Submission Instructions
-Keep pushing code to your repository — its latest state at the deadline is your submission.
-Fill in all required information in the README.md file of your repository, following the provided template.
-Submit before the deadline.
-Generate APK: Build → Build Bundle(s) / APK → Build APK
+- Keep pushing code to your repository — its latest state at the deadline is your submission.
+- Fill in all required information in the README.md file of your repository, following the provided template.
+- Submit before the deadline.
+- Generate APK: Build → Build Bundle(s) / APK → Build APK
 
 ## ⚠️ Important Notes
-This is an individual assignment.
-Code cannot be submitted after the deadline.
-Make sure all links in your README.md are accessible.
-Applicants must select a track when applying, track changes are not allowed after submission. Do not submit both an Android and a Web repository - if you create both, please delete one 
+- This is an individual assignment.
+- Code cannot be submitted after the deadline.
+- Make sure all links in your README.md are accessible.
+- Applicants must select a track when applying, track changes are not allowed after submission. Do not submit both an Android and a Web repository - if you create both, please delete one 
 before the deadline.
 
 ## 📊 How We'll Evaluate Your Submission
