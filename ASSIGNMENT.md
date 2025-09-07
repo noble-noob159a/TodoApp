@@ -1,4 +1,4 @@
-**Important: Deadline is September 15th, 18:00! **
+** Important: Deadline is September 15th, 18:00! **
 
 
 ## 🎯 Assignment Overview
@@ -103,5 +103,5 @@ We'll select the top submissions to advance to the main hackathon. Focus on buil
 
 **Remember:** A polished, complete solution beats an ambitious but broken one!
 
-**Important: Deadline is September 15th, 18:00! **
+** Important: Deadline is September 15th, 18:00! **
 
