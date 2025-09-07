@@ -1,5 +1,9 @@
-**Important: Deadline is September 15th, 18:00!**
+# NAVER Vietnam AI Hackathon – Preliminary Assignment
+## "Student Time Management Solution"
 
+---
+
+**Important: Deadline is September 15th, 18:00!**
 
 ## 🎯 Assignment Overview
 
