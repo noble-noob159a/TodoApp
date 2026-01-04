@@ -1,14 +1,13 @@
 # Todo App
 
 ## Overview
-Todo App is a simple, offline-first Android application that helps students organize tasks and deadlines in one place. It focuses on clarity, speed, and reliability so daily planning stays effortless.
+Todo App is a simple, offline-first Android application that helps users organize tasks and deadlines in one place. It focuses on clarity, speed, and reliability so daily planning stays effortless.
 
 ## Basic Features
 - **CRUD:** Create, read, update, and delete tasks with due dates.
 - **Persistent storage:** Tasks and history are saved locally (file/JSON) and remain after closing the app.
 - **Multiple views:** List View (manage), Calendar View (plan), History View (review), plus grouping for organization.
 - **Time/date handling:** Due dates, day-based filtering, and calendar navigation to avoid deadline conflicts.
-- **Scales >20 items:** Efficient Compose lists support large task sets smoothly.
 
 ## Key Features
 - Fast task entry and editing
