@@ -1,4 +1,4 @@
-package hackathon.naver
+package app
 
 import androidx.compose.animation.animateContentSize
 import androidx.compose.animation.core.animateFloatAsState

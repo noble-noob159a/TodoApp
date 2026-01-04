@@ -1,4 +1,4 @@
-package hackathon.naver
+package app
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box

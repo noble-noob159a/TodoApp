@@ -1,4 +1,4 @@
-package hackathon.naver.ui.theme
+package app
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

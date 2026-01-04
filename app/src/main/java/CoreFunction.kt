@@ -1,4 +1,4 @@
-package hackathon.naver
+package app
 
 import android.annotation.SuppressLint
 import android.app.TimePickerDialog

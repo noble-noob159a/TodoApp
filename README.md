@@ -1,65 +1,31 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zqVInknP)
-# To-Do App – Preliminary Assignment Submission
-⚠️ Please complete **all sections marked with the ✍️ icon** — these are required for your submission.
+# Todo App
 
-👀 Please Check ASSIGNMENT.md file in this repository for assignment requirements.
+## Overview
+Todo App is a simple, offline-first Android application that helps students organize tasks and deadlines in one place. It focuses on clarity, speed, and reliability so daily planning stays effortless.
 
-## 🚀 Project Setup & Usage
-**How to install and run your project:**  
-✍️  
-Example (replace with your actual steps)  
-- `npm install`  
-- `npm start`
+## Basic Features
+- **CRUD:** Create, read, update, and delete tasks with due dates.
+- **Persistent storage:** Tasks and history are saved locally (file/JSON) and remain after closing the app.
+- **Multiple views:** List View (manage), Calendar View (plan), History View (review), plus grouping for organization.
+- **Time/date handling:** Due dates, day-based filtering, and calendar navigation to avoid deadline conflicts.
+- **Scales >20 items:** Efficient Compose lists support large task sets smoothly.
 
-## 🔗 Deployed Web URL or APK file
-✍️ [Paste your link here]
+## Key Features
+- Fast task entry and editing
+- Calendar-based planning
+- Completed-task history
+- Search and filters by text/date
+- On-device privacy; no network required
 
+## Tech Stack
+- Kotlin, Jetpack Compose (Material 3)
+- Gradle (Kotlin DSL), Min SDK 21, Target SDK 36
 
-## 🎥 Demo Video
-**Demo video link (≤ 2 minutes):**  
-📌 **Video Upload Guideline:** when uploading your demo video to YouTube, please set the visibility to **Unlisted**.  
-- “Unlisted” videos can only be viewed by users who have the link.  
-- The video will not appear in search results or on your channel.  
-- Share the link in your README so mentors can access it.  
+## Run
+1. Open the project in Android Studio or VS Code.
+2. Connect a device (USB debugging) or start an emulator.
+3. Build & install:
+	- Windows: `./gradlew.bat installDebug`
+	- macOS/Linux: `./gradlew installDebug`
+4. APK output: `app/build/outputs/apk/debug/app-debug.apk`.
 
-✍️ [Paste your video link here]
-
-
-## 💻 Project Introduction
-
-### a. Overview
-
-✍️ [Write your content here]
-
-### b. Key Features & Function Manual
-
-✍️ [Write your content here, explain about your app's functions]
-
-### c. Unique Features (What’s special about this app?) 
-
-✍️ [Write your content here]
-
-### d. Technology Stack and Implementation Methods
-
-✍️ [Write your content here]
-
-### e. Service Architecture & Database structure (when used)
-
-✍️ [Write your content here]
-
-## 🧠 Reflection
-
-### a. If you had more time, what would you expand?
-
-✍️ [Write your content here]
-
-
-### b. If you integrate AI APIs more for your app, what would you do?
-
-✍️ [Write your content here]
-
-
-## ✅ Checklist
-- [ ] Code runs without errors  
-- [ ] All required features implemented (add/edit/delete/complete tasks)  
-- [ ] All ✍️ sections are filled  

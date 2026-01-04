@@ -1,4 +1,4 @@
-package hackathon.naver.ui.theme
+package app
 
 import android.app.Activity
 import android.os.Build

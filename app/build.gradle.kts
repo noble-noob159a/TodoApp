@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "hackathon.naver"
+    namespace = "app.todo"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "hackathon.naver"
+        applicationId = "app.todo"
         minSdk = 21
         targetSdk = 36
         versionCode = 1
